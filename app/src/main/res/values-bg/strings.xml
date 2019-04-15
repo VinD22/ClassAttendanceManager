@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">Приложение, за да следите присъствието си</string>
+    <string name="update_minimum_attendance">Актуализиране на минималната посещаемост</string>
+    <string name="add_minimum_attendance">Въведете минимална посещаемост</string>
+    <string name="no_value">Без стойност</string>
+    <string name="enter_subject_name">Въведете име на тема</string>
+    <string name="subject_name">Име на обекта</string>
+    <string name="add_subject">Добавяне на тема</string>
+    <string name="attend">Присъстват</string>
+    <string name="skip">пропускане</string>
+    <string name="update">Актуализация</string>
+    <string name="total_classes">Общо класове</string>
+    <string name="classes_attended">Участваха класове</string>
+    <string name="classes_skipped">Класовете са пропуснати</string>
+    <string name="edit_subject">Редактиране на тема</string>
+    <string name="invalid_numbers">Невалидни номера</string>
+    <string name="ok">Добре</string>
+    <string name="yes">да</string>
+    <string name="empty_fields">Празни полета</string>
+    <string name="check_my_other_apps">Проверете моята друга молба</string>
+    <string name="share_app">Дял</string>
+    <string name="rate_app">Преглед на приложението</string>
+    <string name="settings">Настройки</string>
+    <string name="share">Дял</string>
+</resources>

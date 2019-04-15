@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">あなたの出席を追跡するアプリケーション</string>
+    <string name="update_minimum_attendance">最小出席数を更新する</string>
+    <string name="add_minimum_attendance">最小出席率を入力してください</string>
+    <string name="no_value">値なし</string>
+    <string name="enter_subject_name">件名を入力</string>
+    <string name="subject_name">件名</string>
+    <string name="add_subject">件名を追加</string>
+    <string name="attend">出席する</string>
+    <string name="skip">スキップ</string>
+    <string name="update">更新</string>
+    <string name="total_classes">合計クラス</string>
+    <string name="classes_attended">出席したクラス</string>
+    <string name="classes_skipped">スキップされたクラス</string>
+    <string name="edit_subject">件名を編集</string>
+    <string name="invalid_numbers">無効な番号</string>
+    <string name="ok">好</string>
+    <string name="yes">はい</string>
+    <string name="empty_fields">空のフィールド</string>
+    <string name="check_my_other_apps">他のアプリをチェックする</string>
+    <string name="share_app">分け合う</string>
+    <string name="rate_app">批評</string>
+    <string name="settings">設定</string>
+    <string name="share">分け合う</string>
+</resources>

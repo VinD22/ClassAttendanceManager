@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">App per tenere traccia della tua presenza</string>
+    <string name="update_minimum_attendance">Aggiorna la frequenza minima</string>
+    <string name="add_minimum_attendance">Inserisci la frequenza minima</string>
+    <string name="no_value">Nessun valore</string>
+    <string name="enter_subject_name">Immettere il nome del soggetto</string>
+    <string name="subject_name">Nome oggetto</string>
+    <string name="add_subject">Aggiungi soggetto</string>
+    <string name="attend">Assistere</string>
+    <string name="skip">Salta</string>
+    <string name="update">Aggiornare</string>
+    <string name="total_classes">Classi totali</string>
+    <string name="classes_attended">Corsi frequentati</string>
+    <string name="classes_skipped">Classi saltate</string>
+    <string name="edit_subject">Modifica oggetto</string>
+    <string name="invalid_numbers">Numeri non validi</string>
+    <string name="ok">Ok</string>
+    <string name="yes">sì</string>
+    <string name="empty_fields">Campi Vuoti</string>
+    <string name="check_my_other_apps">Controlla le mie altre applicazioni</string>
+    <string name="share_app">la porzione</string>
+    <string name="rate_app">Recensione App</string>
+    <string name="settings">impostazioni</string>
+    <string name="share">la porzione</string>
+</resources>

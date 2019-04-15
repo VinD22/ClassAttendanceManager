@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">App pentru a ține evidența participării dvs.</string>
+    <string name="update_minimum_attendance">Actualizați participarea minimă</string>
+    <string name="add_minimum_attendance">Introduceți participarea minimă</string>
+    <string name="no_value">Fără valoare</string>
+    <string name="enter_subject_name">Introduceți numele subiectului</string>
+    <string name="subject_name">Nume subiect</string>
+    <string name="add_subject">Adaugă subiect</string>
+    <string name="attend">A se prezenta, frecventa</string>
+    <string name="skip">Ocolire</string>
+    <string name="update">Actualizați</string>
+    <string name="total_classes">Clasa totală</string>
+    <string name="classes_attended">Clasele au participat</string>
+    <string name="classes_skipped">Clasele au fost șterse</string>
+    <string name="edit_subject">Editați subiectul</string>
+    <string name="invalid_numbers">Numere nevalide</string>
+    <string name="ok">O.K</string>
+    <string name="yes">da</string>
+    <string name="empty_fields">Câmpuri goale</string>
+    <string name="check_my_other_apps">Verificați alte aplicații</string>
+    <string name="share_app">împărţi</string>
+    <string name="rate_app">Revizuire</string>
+    <string name="settings">reglaj</string>
+    <string name="share">împărţi</string>
+</resources>

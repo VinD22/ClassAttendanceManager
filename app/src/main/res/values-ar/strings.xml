@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">التطبيق لتتبع الحضور الخاص بك</string>
+    <string name="update_minimum_attendance">تحديث الحد الأدنى من الحضور</string>
+    <string name="add_minimum_attendance">أدخل الحد الأدنى من الحضور</string>
+    <string name="no_value">لا قيمة</string>
+    <string name="enter_subject_name">أدخل اسم الموضوع</string>
+    <string name="subject_name">اسم الموضوع</string>
+    <string name="add_subject">إضافة الموضوع</string>
+    <string name="attend">حضر</string>
+    <string name="skip">تخطى</string>
+    <string name="update">تحديث</string>
+    <string name="total_classes">مجموع الفئات</string>
+    <string name="classes_attended">دروس حضرها</string>
+    <string name="classes_skipped">تم تخطي الدروس</string>
+    <string name="edit_subject">تعديل الموضوع</string>
+    <string name="invalid_numbers">أرقام غير صالحة</string>
+    <string name="ok">حسنا</string>
+    <string name="yes">نعم فعلا</string>
+    <string name="empty_fields">الحقول الفارغة</string>
+    <string name="check_my_other_apps">تحقق من بلدي تطبيقات أخرى</string>
+    <string name="share_app">شارك</string>
+    <string name="rate_app">إعادة النظر</string>
+    <string name="settings">إعدادات</string>
+    <string name="share">شارك</string>
+</resources>

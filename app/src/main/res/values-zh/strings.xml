@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">应用程序来跟踪您的出勤情况</string>
+    <string name="update_minimum_attendance">更新最低出勤率</string>
+    <string name="add_minimum_attendance">输入最低出勤率</string>
+    <string name="no_value">没有价值</string>
+    <string name="enter_subject_name">输入主题名称</string>
+    <string name="subject_name">主题名称</string>
+    <string name="add_subject">添加主题</string>
+    <string name="attend">出席</string>
+    <string name="skip">跳跃</string>
+    <string name="update">更新</string>
+    <string name="total_classes">课堂总数</string>
+    <string name="classes_attended">上课</string>
+    <string name="classes_skipped">课程跳过</string>
+    <string name="edit_subject">编辑主题</string>
+    <string name="invalid_numbers">数字无效</string>
+    <string name="ok">好</string>
+    <string name="yes">是</string>
+    <string name="empty_fields">空字段</string>
+    <string name="check_my_other_apps">检查我的其他应用程序</string>
+    <string name="share_app">共享</string>
+    <string name="rate_app">评论应用</string>
+    <string name="settings">设置</string>
+    <string name="share">共享</string>
+</resources>

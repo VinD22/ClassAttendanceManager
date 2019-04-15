@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">Devamını takip etmek için başvuru</string>
+    <string name="update_minimum_attendance">Minimum Seyirci Güncelleme</string>
+    <string name="add_minimum_attendance">Minimum Seyirci Girin</string>
+    <string name="no_value">Değersiz</string>
+    <string name="enter_subject_name">Konu Adı Gir</string>
+    <string name="subject_name">Konu Adı</string>
+    <string name="add_subject">Konu Ekle</string>
+    <string name="attend">katılmak</string>
+    <string name="skip">atlamak</string>
+    <string name="update">Güncelleştirme</string>
+    <string name="total_classes">Toplam sınıflar</string>
+    <string name="classes_attended">Katılan Sınıflar</string>
+    <string name="classes_skipped">Atlanan Sınıflar</string>
+    <string name="edit_subject">Konuyu Düzenle</string>
+    <string name="invalid_numbers">Geçersiz Sayılar</string>
+    <string name="ok">Tamam</string>
+    <string name="yes">Evet</string>
+    <string name="empty_fields">Boş Alanlar</string>
+    <string name="check_my_other_apps">Diğer uygulamaları kontrol et</string>
+    <string name="share_app">paylaşmak</string>
+    <string name="rate_app">eleştiri</string>
+    <string name="settings">Ayarlar</string>
+    <string name="share">paylaşmak</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="235dp"
+    android:layout_height="wrap_content"
+    android:minHeight="70dp"
+    android:minWidth="185dp"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <EditText
+        android:id="@+id/subject_name"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:backgroundTint="@color/colorPrimary"
+        android:hint="@string/enter_subject_name"
+        android:lines="1"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="15sp"
+        android:typeface="sans" />
+
+    <Button
+        android:id="@+id/add_subject"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/add_subject"
+        android:textColor="@color/white" />
+
+</LinearLayout>

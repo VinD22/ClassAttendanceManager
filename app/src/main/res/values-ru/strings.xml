@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">Приложение для отслеживания посещаемости</string>
+    <string name="update_minimum_attendance">Обновление минимального посещаемости</string>
+    <string name="add_minimum_attendance">Введите минимальное посещение</string>
+    <string name="no_value">Неважно</string>
+    <string name="enter_subject_name">Введите название темы</string>
+    <string name="subject_name">Название темы</string>
+    <string name="add_subject">Добавить тему</string>
+    <string name="attend">Посещать</string>
+    <string name="skip">Пропускать</string>
+    <string name="update">Обновить</string>
+    <string name="total_classes">Всего классов</string>
+    <string name="classes_attended">Занятые занятия</string>
+    <string name="classes_skipped">Классы пропущены</string>
+    <string name="edit_subject">Редактировать тему</string>
+    <string name="invalid_numbers">Недействительные номера</string>
+    <string name="ok">ОК</string>
+    <string name="yes">да</string>
+    <string name="empty_fields">Пустые поля</string>
+    <string name="check_my_other_apps">Проверить другие мои приложения</string>
+    <string name="share_app">Поделиться</string>
+    <string name="rate_app">Обзор приложения</string>
+    <string name="settings">Настройки</string>
+    <string name="share">Поделиться</string>
+</resources>

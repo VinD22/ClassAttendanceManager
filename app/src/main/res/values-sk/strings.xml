@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">Aplikácia na sledovanie vašej účasti</string>
+    <string name="update_minimum_attendance">Aktualizujte minimálnu účasť</string>
+    <string name="add_minimum_attendance">Zadajte minimálnu účasť</string>
+    <string name="no_value">Žiadna hodnota</string>
+    <string name="enter_subject_name">Zadajte názov objektu</string>
+    <string name="subject_name">Názov predmetu</string>
+    <string name="add_subject">Pridať predmet</string>
+    <string name="attend">navštevovať</string>
+    <string name="skip">preskočiť</string>
+    <string name="update">aktualizovať</string>
+    <string name="total_classes">Celkové triedy</string>
+    <string name="classes_attended">Triedy sa zúčastnili</string>
+    <string name="classes_skipped">Triedy vynechané</string>
+    <string name="edit_subject">Upraviť predmet</string>
+    <string name="invalid_numbers">Neplatné čísla</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Áno</string>
+    <string name="empty_fields">Prázdne polia</string>
+    <string name="check_my_other_apps">Skontrolujte moje ďalšie aplikácie</string>
+    <string name="share_app">rozdeliť</string>
+    <string name="rate_app">Recenzia aplikácie</string>
+    <string name="settings">nastavenie</string>
+    <string name="share">rozdeliť</string>
+</resources>

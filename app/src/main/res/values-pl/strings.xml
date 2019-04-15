@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">Aplikacja umożliwia śledzenie obecności</string>
+    <string name="update_minimum_attendance">Aktualizuj minimalną frekwencję</string>
+    <string name="add_minimum_attendance">Wprowadź minimalną liczbę uczestników</string>
+    <string name="no_value">Bez wartości</string>
+    <string name="enter_subject_name">Wprowadź nazwę przedmiotu</string>
+    <string name="subject_name">Nazwa przedmiotu</string>
+    <string name="add_subject">Dodaj temat</string>
+    <string name="attend">Uczęszczać</string>
+    <string name="skip">Pominąć</string>
+    <string name="update">Aktualizacja</string>
+    <string name="total_classes">Razem zajęcia</string>
+    <string name="classes_attended">Zajęły się zajęcia</string>
+    <string name="classes_skipped">Klasy zostały pominięte</string>
+    <string name="edit_subject">Edytuj temat</string>
+    <string name="invalid_numbers">Nieprawidłowe liczby</string>
+    <string name="ok">Ok</string>
+    <string name="yes">tak</string>
+    <string name="empty_fields">Pustych polach</string>
+    <string name="check_my_other_apps">Sprawdź inne aplikacje</string>
+    <string name="share_app">Dzielić</string>
+    <string name="rate_app">Recenzja</string>
+    <string name="settings">naregulowanie</string>
+    <string name="share">Dzielić</string>
+</resources>

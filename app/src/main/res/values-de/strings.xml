@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">App, um Ihre Teilnahme zu verfolgen</string>
+    <string name="update_minimum_attendance">Maximale Teilnahme aktualisieren</string>
+    <string name="add_minimum_attendance">Geben Sie die Mindestteilnahme ein</string>
+    <string name="no_value">Kein Wert</string>
+    <string name="enter_subject_name">Geben Sie den Betreffnamen ein</string>
+    <string name="subject_name">Subjekt Name</string>
+    <string name="add_subject">Thema hinzufügen</string>
+    <string name="attend">Besuchen</string>
+    <string name="skip">Überspringen</string>
+    <string name="update">Aktualisieren</string>
+    <string name="total_classes">Gesamtklassen</string>
+    <string name="classes_attended">Klassen besucht</string>
+    <string name="classes_skipped">Klassen übersprungen</string>
+    <string name="edit_subject">Bearbeiten Thema</string>
+    <string name="invalid_numbers">Ungültige Zahlen</string>
+    <string name="ok">OK</string>
+    <string name="yes">Ja</string>
+    <string name="empty_fields">Leerfelder</string>
+    <string name="check_my_other_apps">Überprüfe meine anderen Apps</string>
+    <string name="share_app">der Anteil</string>
+    <string name="rate_app">Überprüfung</string>
+    <string name="settings">Einstellungen</string>
+    <string name="share">der Anteil</string>
+</resources>

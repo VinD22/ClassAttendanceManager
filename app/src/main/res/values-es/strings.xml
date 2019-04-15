@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">Aplicación para realizar un seguimiento de su asistencia</string>
+    <string name="update_minimum_attendance">Actualizar asistencia mínima</string>
+    <string name="add_minimum_attendance">Ingresar asistencia mínima</string>
+    <string name="no_value">Sin valor</string>
+    <string name="enter_subject_name">Introduzca el nombre del asunto</string>
+    <string name="subject_name">Nombre del tema</string>
+    <string name="add_subject">Añadir tema</string>
+    <string name="attend">Asistir</string>
+    <string name="skip">Omitir</string>
+    <string name="update">Actualizar</string>
+    <string name="total_classes">Clases totales</string>
+    <string name="classes_attended">Clases asistidas</string>
+    <string name="classes_skipped">Clases omitidas</string>
+    <string name="edit_subject">Editar asunto</string>
+    <string name="invalid_numbers">Números no válidos</string>
+    <string name="ok">De acuerdo</string>
+    <string name="yes">Sí</string>
+    <string name="empty_fields">Campos vacíos</string>
+    <string name="check_my_other_apps">Comprobar mis otras aplicaciones</string>
+    <string name="share_app">Compartir aplicación</string>
+    <string name="rate_app">la crítica</string>
+    <string name="settings">Ajustes</string>
+    <string name="share">Compartir</string>
+</resources>

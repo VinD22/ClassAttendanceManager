@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">יישום כדי לעקוב אחר הנוכחות שלך</string>
+    <string name="update_minimum_attendance">עדכן נוכחות מינימלית</string>
+    <string name="add_minimum_attendance">הזן נוכחות מינימלית</string>
+    <string name="no_value">אין ערך</string>
+    <string name="enter_subject_name">הזן שם נושא</string>
+    <string name="subject_name">שם הנושא</string>
+    <string name="add_subject">הוסף נושא</string>
+    <string name="attend">השתתף</string>
+    <string name="skip">לדלג</string>
+    <string name="update">עדכון</string>
+    <string name="total_classes">סה"כ כיתות</string>
+    <string name="classes_attended">הכיתות שנלמדו</string>
+    <string name="classes_skipped">הכיתות דילגו</string>
+    <string name="edit_subject">ערוך נושא</string>
+    <string name="invalid_numbers">מספרים לא חוקיים</string>
+    <string name="ok">בסדר</string>
+    <string name="yes">כן</string>
+    <string name="empty_fields">שדות ריקים</string>
+    <string name="check_my_other_apps">בדוק יישומים אחרים</string>
+    <string name="share_app">לַחֲלוֹק</string>
+    <string name="rate_app">סקירה</string>
+    <string name="settings">סְבִיבָה</string>
+    <string name="share">לַחֲלוֹק</string>
+</resources>

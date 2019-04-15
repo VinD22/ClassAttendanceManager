@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">Sovellus seurata läsnäoloasi</string>
+    <string name="update_minimum_attendance">Päivitä vähintään osallistuminen</string>
+    <string name="add_minimum_attendance">Anna vähimmäistilaisuus</string>
+    <string name="no_value">Ei arvoa</string>
+    <string name="enter_subject_name">Anna kohteen nimi</string>
+    <string name="subject_name">Aihe Nimi</string>
+    <string name="add_subject">Lisää aihe</string>
+    <string name="attend">käydä</string>
+    <string name="skip">hyppiä</string>
+    <string name="update">Päivittää</string>
+    <string name="total_classes">Yhteensä luokat</string>
+    <string name="classes_attended">Osallistuneet luokat</string>
+    <string name="classes_skipped">Luokat ohitettiin</string>
+    <string name="edit_subject">Muokkaa kohdetta</string>
+    <string name="invalid_numbers">Virheelliset numerot</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Joo</string>
+    <string name="empty_fields">Tyhjät kentät</string>
+    <string name="check_my_other_apps">Tarkista toinen sovellus</string>
+    <string name="share_app">osuus</string>
+    <string name="rate_app">Arvostelu</string>
+    <string name="settings">asetukset</string>
+    <string name="share">osuus</string>
+</resources>

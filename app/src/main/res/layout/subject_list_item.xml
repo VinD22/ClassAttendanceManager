@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:clickable="true"
+    android:padding="3dp"
+    card_view:cardCornerRadius="5dp"
+    card_view:cardElevation="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="35dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+
+        <LinearLayout
+            android:id="@+id/lin"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <TextView
+                android:id="@+id/subject_name"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:ellipsize="end"
+                android:fontFamily="cursive"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="Iphone"
+                android:textColor="#5b5a5a"
+                android:textSize="28sp" />
+
+            <TextView
+                android:id="@+id/subject_attendance_percentage"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="#eaeaea"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="100%"
+                android:textColor="@color/green"
+                android:textSize="15sp"
+                android:textStyle="bold|italic" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <!-- Used for the ripple effect on touch -->
+    <LinearLayout
+        android:id="@+id/mainHolder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:selectableItemBackground"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_gravity="bottom"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <ImageButton
+            android:id="@+id/edit"
+            android:layout_width="33dp"
+            android:layout_height="33dp"
+            android:background="@android:color/transparent"
+            android:padding="3dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/edit" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/white" />
+
+        <ImageButton
+            android:id="@+id/info"
+            android:layout_width="33dp"
+            android:layout_height="33dp"
+            android:background="@android:color/transparent"
+            android:scaleType="fitCenter"
+            android:src="@drawable/info" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/white" />
+
+        <Button
+            android:id="@+id/attend_lecture"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/attend"
+            android:textSize="12sp"
+            android:textColor="@color/white"
+            android:background="@color/light_green" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/white" />
+
+        <Button
+            android:id="@+id/skip_lecture"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/skip"
+            android:textSize="12sp"
+            android:textColor="@color/white"
+            android:background="@color/light_red" />
+
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>

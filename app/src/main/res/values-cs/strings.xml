@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">App, abyste sledovali vaši účast</string>
+    <string name="update_minimum_attendance">Aktualizovat minimální účast</string>
+    <string name="add_minimum_attendance">Zadejte minimální účast</string>
+    <string name="no_value">Bez ceny</string>
+    <string name="enter_subject_name">Zadejte Název objektu</string>
+    <string name="subject_name">Název předmětu</string>
+    <string name="add_subject">Přidat předmět</string>
+    <string name="attend">Zúčastnit se</string>
+    <string name="skip">Přeskočit</string>
+    <string name="update">Aktualizace</string>
+    <string name="total_classes">Celkové třídy</string>
+    <string name="classes_attended">Třídy se zúčastnily</string>
+    <string name="classes_skipped">Třídy vynechány</string>
+    <string name="edit_subject">Upravit předmět</string>
+    <string name="invalid_numbers">Neplatná čísla</string>
+    <string name="ok">OK</string>
+    <string name="yes">Ano</string>
+    <string name="empty_fields">Prázdná pole</string>
+    <string name="check_my_other_apps">Zkontrolujte ostatní aplikace</string>
+    <string name="share_app">Podíl</string>
+    <string name="rate_app">posoudit</string>
+    <string name="settings">Nastavení</string>
+    <string name="share">Podíl</string>
+</resources>

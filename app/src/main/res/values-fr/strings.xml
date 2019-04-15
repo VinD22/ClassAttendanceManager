@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="about_app">Demande de suivi de votre présence</string>
+    <string name="update_minimum_attendance">Mise à jour de la participation minimale</string>
+    <string name="add_minimum_attendance">Entrez la participation minimale</string>
+    <string name="no_value">Aucune valeur</string>
+    <string name="enter_subject_name">Entrez le nom du sujet</string>
+    <string name="subject_name">Nom du sujet</string>
+    <string name="add_subject">Ajouter un sujet</string>
+    <string name="attend">Assister</string>
+    <string name="skip">Sauter</string>
+    <string name="update">Mettre à jour</string>
+    <string name="total_classes">Nombre total de cours</string>
+    <string name="classes_attended">Les cours assistaient</string>
+    <string name="classes_skipped">Classes esquivées</string>
+    <string name="edit_subject">Modifier le sujet</string>
+    <string name="invalid_numbers">Numéros non valides</string>
+    <string name="ok">D\'accord</string>
+    <string name="yes">Oui</string>
+    <string name="empty_fields">Champs vides</string>
+    <string name="check_my_other_apps">Vérifiez d\'autres applications</string>
+    <string name="share_app">Partager</string>
+    <string name="rate_app">la critique</string>
+    <string name="settings">le réglage</string>
+    <string name="share">Partager</string>
+
+</resources>

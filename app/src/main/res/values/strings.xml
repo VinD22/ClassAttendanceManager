@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name" translatable="false">Class Attendance Manager</string>
+
+    <string name="about_app">App to keep track of your attendance</string>
+    <string name="update_minimum_attendance">Update Minimum Attendance</string>
+    <string name="check_my_other_apps">Check More Apps</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_app">Rate App</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="add_minimum_attendance">Enter Minimum Attendance</string>
+    <string name="no_value">No Value</string>
+    <string name="enter_subject_name">Enter Subject Name</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="yes">Yes</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="empty_fields">Empty Field</string>
+    <string name="attend">Attend</string>
+    <string name="skip">Skip</string>
+    <string name="update">Update</string>
+    <string name="total_classes">Total classes</string>
+    <string name="classes_attended">Classes Attended</string>
+    <string name="classes_skipped">Classes Skipped</string>
+    <string name="edit_subject">Edit Subject</string>
+    <string name="invalid_numbers">Invalid Numbers</string>
+    <string name="ok">Ok</string>
+
+</resources>

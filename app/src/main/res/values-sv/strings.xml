@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">Ansökan för att hålla reda på din närvaro</string>
+    <string name="update_minimum_attendance">Uppdatera minsta närvaro</string>
+    <string name="add_minimum_attendance">Ange minst deltagande</string>
+    <string name="no_value">Inget värde</string>
+    <string name="enter_subject_name">Ange ämnesnamn</string>
+    <string name="subject_name">Ämnesnamn</string>
+    <string name="add_subject">Lägg till ämne</string>
+    <string name="attend">Delta i</string>
+    <string name="skip">Hoppa</string>
+    <string name="update">Uppdatering</string>
+    <string name="total_classes">Totala klasser</string>
+    <string name="classes_attended">Klasser deltog</string>
+    <string name="classes_skipped">Klasser hoppas över</string>
+    <string name="edit_subject">Redigera ämne</string>
+    <string name="invalid_numbers">Ogiltiga nummer</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Ja</string>
+    <string name="empty_fields">Kontrollera andra program</string>
+    <string name="check_my_other_apps">Kontrollera andra program</string>
+    <string name="share_app">dela</string>
+    <string name="rate_app">Recension</string>
+    <string name="settings">inställningar</string>
+    <string name="share">dela</string>
+</resources>

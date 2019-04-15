@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "967839735819",
+    "firebase_url": "https://class-attendance-manager.firebaseio.com",
+    "project_id": "class-attendance-manager",
+    "storage_bucket": "class-attendance-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967839735819:android:07871a8ef1a07156",
+        "android_client_info": {
+          "package_name": "manager.attendance.aclass.app.v.classattendancemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967839735819-j5lp6t8m5vcsj9ul64nf0otsg2kalqsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8T7K12ekAC_Ih3ZXauIqASrIat6Ii7vc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

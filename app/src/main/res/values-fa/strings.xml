@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">برنامه برای پیگیری حضور خود را</string>
+    <string name="update_minimum_attendance">به روز رسانی حداقل حضور و غیاب</string>
+    <string name="add_minimum_attendance">حداقل حضور و غیاب را وارد کنید</string>
+    <string name="no_value">بدون ارزش</string>
+    <string name="enter_subject_name">تم نام را وارد کنید</string>
+    <string name="subject_name">تم نام</string>
+    <string name="add_subject">اضافه کردن تم</string>
+    <string name="attend">مراجعه كردن</string>
+    <string name="skip">پرش</string>
+    <string name="update">به روز رسانی</string>
+    <string name="total_classes">مجموع طبقات</string>
+    <string name="classes_attended">کلاس حضور داشتند</string>
+    <string name="classes_skipped">کلاس، رد</string>
+    <string name="edit_subject">ویرایش موضوع</string>
+    <string name="invalid_numbers">شماره نامعتبر</string>
+    <string name="ok">خوب</string>
+    <string name="yes">بله</string>
+    <string name="empty_fields">زمینه های خالی</string>
+    <string name="check_my_other_apps">بررسی برنامه های دیگر من</string>
+    <string name="share_app">بخش کردن</string>
+    <string name="rate_app">تجدید نظر</string>
+    <string name="settings">تنظیمات</string>
+    <string name="share">بخش کردن</string>
+</resources>

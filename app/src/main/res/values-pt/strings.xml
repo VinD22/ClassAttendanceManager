@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">Aplicação para acompanhar o seu comparecimento</string>
+    <string name="update_minimum_attendance">Atualizar a participação mínima</string>
+    <string name="add_minimum_attendance">Insira Atendimento Mínimo</string>
+    <string name="no_value">Sem valor</string>
+    <string name="enter_subject_name">Digite o Nome do Assunto</string>
+    <string name="subject_name">Nome do Assunto</string>
+    <string name="add_subject">Adicionar assunto</string>
+    <string name="attend">Comparecer</string>
+    <string name="skip">Pular</string>
+    <string name="update">Atualizar</string>
+    <string name="total_classes">Total de aulas</string>
+    <string name="classes_attended">Classes atendidas</string>
+    <string name="classes_skipped">Classes esquivadas</string>
+    <string name="edit_subject">Editar Assunto</string>
+    <string name="invalid_numbers">Números inválidos</string>
+    <string name="ok">Está bem</string>
+    <string name="yes">sim</string>
+    <string name="empty_fields">Campos vazios</string>
+    <string name="check_my_other_apps">Verificar os meus outros aplicativos</string>
+    <string name="share_app">a ação</string>
+    <string name="rate_app">Rever aplicativo</string>
+    <string name="settings">o cenário</string>
+    <string name="share">a ação</string>
+</resources>

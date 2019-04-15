@@ -1,0 +1,25 @@
+<resources>
+    <string name="about_app">Toepassing om bij te houden van uw aanwezigheid</string>
+    <string name="update_minimum_attendance">Update Minimum Bijwonen</string>
+    <string name="add_minimum_attendance">Voer minimaal bijwonen in</string>
+    <string name="no_value">Geen waarde</string>
+    <string name="enter_subject_name">Vul vaknaam in</string>
+    <string name="subject_name">Onderwerpnaam</string>
+    <string name="add_subject">Voeg een onderwerp toe</string>
+    <string name="attend">Bijwonen</string>
+    <string name="skip">Overspringen</string>
+    <string name="update">Bijwerken</string>
+    <string name="total_classes">Totaal aantal lessen</string>
+    <string name="classes_attended">Klassen bijgewoond</string>
+    <string name="classes_skipped">Klassen overgeslagen</string>
+    <string name="edit_subject">Onderwerp bewerken</string>
+    <string name="invalid_numbers">Ongeldige nummers</string>
+    <string name="ok">OK</string>
+    <string name="yes">Ja</string>
+    <string name="empty_fields">Leeg velden</string>
+    <string name="check_my_other_apps">Controleer andere toepassingen</string>
+    <string name="share_app">Delen</string>
+    <string name="rate_app">recensie</string>
+    <string name="settings">Instellingen</string>
+    <string name="share">Delen</string>
+</resources>
